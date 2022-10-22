@@ -1,2 +1,1 @@
-*.ipnyb linguist-detectable=true
-
+*.ipnyb linguist-detectable=false
